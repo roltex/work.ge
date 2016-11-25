@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../scss/partials/keyframes.css"],"names":[],"mappings":"AAAA;EACE;IACE,WAAW;GACZ;EACD;IACE,UAAU;GACX;CACF;AAPD;EACE;IACE,WAAW;GACZ;EACD;IACE,UAAU;GACX;CACF","file":"keyframes.css","sourcesContent":["@keyframes wink{\n  0%{\n    opacity:.8;\n  }\n  100%{\n    opacity:0;\n  }\n}"]}
